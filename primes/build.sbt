@@ -1,6 +1,6 @@
 organization := "com.mckeown"
 
-name := "FizzBuzz"
+name := "Primes"
 
 version := "1.0"
 
